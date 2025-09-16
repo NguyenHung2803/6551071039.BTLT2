@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: brown;
+    }
+caption{
+    border-width: border;
+    color: blue;
+}
+p{
+   
+    border-width: border;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+    background-color: cyan;
+}
+a{
+    color: green;
+}
+a:active{
+    color: blue;
+}
+a:visited{
+    color: red;
+}
+.para{
+    display: flex;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+tr, th{
+    border: 2px solid blue;
+}
